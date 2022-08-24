@@ -1037,6 +1037,17 @@ h4 {
   .bloc-mob-center-text {
     text-align: center;
   }
+
+  .img-responsive {
+    margin: auto;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+
+  .flex-center {
+    display: flex;
+    justify-content: center;
+  }
 }
 
 /*rajout de class*/
